@@ -1,0 +1,29 @@
+
+body{
+	margin-top: 50px;
+}
+section{
+
+padding-top: 30px ;
+padding-bottom: 30px;
+width: 100%; 
+max-width: 800px;
+margin: 0 auto; 
+display: block; 
+height : auto ;
+overflow:hidden;
+ box-sizing:border-box;
+-webkit-box-sizing:border-box;
+-moz-box-sizing:border-box;
+background-color: #12fbfb; 
+
+}
+
+
+img{
+
+	max-width: 100%;
+	width: auto;
+	margin: 0 auto; 
+	display: block; 
+}
